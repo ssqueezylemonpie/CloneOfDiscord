@@ -9,4 +9,3 @@ Jeg skal bruke python for å lage funksjoner at jeg kan for eksempel legge til v
 
 Jeg bruker VM machine for å kunne sette opp databasen og server for å hoste nettsiden for discord klonen.
 
-![alt text]({7C010461-5752-4C0D-9947-BB2AF332E642}.png)
